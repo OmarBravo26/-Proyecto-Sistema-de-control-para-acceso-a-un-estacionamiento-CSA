@@ -1,8 +1,9 @@
-CONTROL SISTEM ACCES
+<h1>ONTROL SISTEM ACCES</h1>
 
 Este proyecto tiene como objetivo principal controlar el acceso al estacionamiento del Tecnológico Superior de Purísima del Rincón. El sistema estará diseñado para detectar las placas de los vehículos de los usuarios del TEC y validarlas con los registros de matrícula almacenados en la base de datos del instituto.
 
 FUNCIONALIDADES
+<br>
 
 
 
