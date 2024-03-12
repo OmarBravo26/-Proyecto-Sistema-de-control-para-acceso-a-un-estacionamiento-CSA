@@ -27,3 +27,6 @@ Acceso Autorizado: Se establecerá un protocolo para permitir el acceso a person
 [Interfaz]https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/tree/main/Interfaz%20Grafica
 
 
+
+
+
