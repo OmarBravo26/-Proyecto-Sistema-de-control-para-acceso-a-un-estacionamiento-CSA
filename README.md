@@ -1,11 +1,25 @@
-Este proyecto tiene el objetivo de controlar el acceso del estacionamiento del Tecnologico Superior de Purisima del Rincón. Este será capaz de detectar las placas de los vehiculos usuarios del TEC 
-las cuales seran validadas con su registro de matricula en la base de datos del instituto.El sistema  sera capaz de permitir el acceso una vez validado, será capaz de permitir la salida del vehículo,
-permitirá tambien  la salida en caso de que se llegue a presentar alguna circunstancia externa. El sistema sera capaz de permitir el registro de mas de 2 placas para cada usuario. El sistema será capaz de eliminar,
-actualizar y consultar los registros. Los registros de la base de datos serán nombre completo del alumno, docente y/o administrativo y su matricula. El sistema tambien permitira el acceso a personas autorizadas
-a ingresar con un protocolo.
+CONTROL SISTEM ACCES
 
-A continuacion presentamos las fases de desarrollo:
-Diagramas
-Interfaces
-Base de datos
-Codigo
+Este proyecto tiene como objetivo principal controlar el acceso al estacionamiento del Tecnológico Superior de Purísima del Rincón. El sistema estará diseñado para detectar las placas de los vehículos de los usuarios del TEC y validarlas con los registros de matrícula almacenados en la base de datos del instituto.
+
+Funcionalidades
+
+
+
+Validación de Placas: El sistema será capaz de validar las placas de los vehículos con los registros de matrícula en la base de datos del instituto.
+
+Control de Acceso: Una vez validadas, el sistema permitirá el acceso al estacionamiento.
+
+Salida del Vehículo: Además de permitir la entrada, el sistema también facilitará la salida de los vehículos.
+
+Manejo de Excepciones: En caso de circunstancias excepcionales, el sistema permitirá la salida sin validar la entrada.
+
+Registros de Usuarios: Se podrá registrar más de una placa para cada usuario.
+
+Gestión de Registros: El sistema permitirá la creación, actualización, eliminación y consulta de registros de usuarios.
+
+Datos Almacenados: Los registros en la base de datos incluirán el nombre completo del alumno, docente y/o administrativo, junto con su matrícula.
+
+Acceso Autorizado: Se establecerá un protocolo para permitir el acceso a personas autorizadas.
+
+
