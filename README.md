@@ -22,9 +22,7 @@ Datos Almacenados: Los registros en la base de datos incluirán el nombre comple
 
 Acceso Autorizado: Se establecerá un protocolo para permitir el acceso a personas autorizadas.
 
-[Enlace a caperta Interfaz Grafica]-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA
-/Interfaz Grafica/
-
+////MENU/////
 [Interfaz]https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/tree/main/Interfaz%20Grafica
 
 
