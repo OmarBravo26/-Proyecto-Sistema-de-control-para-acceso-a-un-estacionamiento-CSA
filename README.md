@@ -24,6 +24,7 @@ Acceso Autorizado: Se establecerá un protocolo para permitir el acceso a person
 
 ////MENU/////
 
-[Interfaz](-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/Interfaz Grafica)
+[Interfaz](-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA
+/Interfaz Grafica/)
 
 
