@@ -29,6 +29,7 @@
 
 <a href="/Interfaz Grafica/">Ver Interfaz Gráfica</a><br>
 <a href="/Bases de Datos/">Ver Bases de Datos</a>
+<a href="/Diagramas UML/">Ver Diagramas UML</a>
 </body>
 </html>
 
