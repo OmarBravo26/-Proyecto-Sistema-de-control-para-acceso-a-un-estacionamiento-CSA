@@ -27,7 +27,8 @@
     
 </div>
 
-<a href="/Interfaz Grafica/">Ver Interfaz Gráfica</a>
+<a href="/Interfaz Grafica/">Ver Interfaz Gráfica</a><br>
+<a href="/Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/Bases%20de%20Datos/">Ver Bases de Datos</a>
 </body>
 </html>
 
