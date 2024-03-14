@@ -7,9 +7,9 @@
 ![deteccion](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/f4f04d3e-5e25-4265-a1ac-4a6db8f442a7)
 
 -> Ventanas emergentes (acceso autorizado o acceso denegado)
-![accesoAuto](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/6246d217-4299-43cb-96a8-bc4f0ca25ca7)
+![accesoAuto](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/50f868af-a610-432b-b27c-d758aab63b04)
 
-![accesoDenegado](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/fdb1b9fc-f851-4a1f-970f-0b6cd088b672)
+![accesoDenegado](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/883ca31d-99b1-41c6-991e-d7229c5871c0)
 
 -> Menu inicial:
 ![Menu](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/e6c5b7d1-16b1-4d27-a755-0f3e10e02382)
