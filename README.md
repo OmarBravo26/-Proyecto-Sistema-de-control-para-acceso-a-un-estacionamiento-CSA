@@ -27,7 +27,7 @@
     
 </div>
 
-
+<a href="/Interfaz Grafica/">Ver Interfaz Gráfica</a>
 </body>
 </html>
 
