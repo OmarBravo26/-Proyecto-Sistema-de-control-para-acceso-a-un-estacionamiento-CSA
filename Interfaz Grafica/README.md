@@ -1,6 +1,8 @@
 <h1>---- Interfaz Grafica ---</h1>
 
-<h3>-> Inicio de Sesion:</h3>
+<h3>-> Inicio de Sesion: 
+</h3><br>
+
 ![Interfaz Login](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/27874bb5-00b2-4d9a-bd91-0d4ccc83c14e)
 
 -> Deteccion de placa:
