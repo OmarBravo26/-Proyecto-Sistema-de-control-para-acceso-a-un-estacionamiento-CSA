@@ -3,3 +3,5 @@ los diagramas de casos de uso, de clases y de secuencia que fueron la clave para
 de lo que es el proyecto de deteccion de placas que estamos elaborando,tenemos 3 imagenes
 de el diagrama de casos de uso, uno para el diagrama de clases y 2 para el 
 diagrama de secuencia.
+
+<a href="/Diagramas UML/Administrador secuencia.jpg/">Ver Diagramas UML</a>
