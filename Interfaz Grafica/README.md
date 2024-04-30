@@ -1,7 +1,7 @@
 <h1>---- Interfaz Grafica ---</h1>
 
 <h3>-> Inicio de Sesion:</h3>
-![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/76bff1fd-0509-420b-80fc-05e85ff44b9e)
+[image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/76bff1fd-0509-420b-80fc-05e85ff44b9e)
 
 <h3>-> Deteccion de placa:</h3>
 ![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/78447983-0082-4d5a-a3cc-5b5b0e7af216)
