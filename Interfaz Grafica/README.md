@@ -1,8 +1,8 @@
 <h1>---- Interfaz Grafica ---</h1>
 
-![login](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/dc9febee-026f-47a5-9e7d-f0dddce95775)
-
 <h3>-> Inicio de Sesion:</h3>
+
+![login](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/dc9febee-026f-47a5-9e7d-f0dddce95775)
 
 [image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/76bff1fd-0509-420b-80fc-05e85ff44b9e)
 
