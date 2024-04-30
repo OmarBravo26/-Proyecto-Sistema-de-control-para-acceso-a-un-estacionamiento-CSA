@@ -1,34 +1,27 @@
 <h1>---- Interfaz Grafica ---</h1>
 
--> Inicio de Sesion: 
+<h3>-> Inicio de Sesion:</h3>
 ![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/76bff1fd-0509-420b-80fc-05e85ff44b9e)
 
--> Deteccion de placa:
-![deteccion](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/f4f04d3e-5e25-4265-a1ac-4a6db8f442a7)
+<h3>-> Deteccion de placa:</h3>
+![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/78447983-0082-4d5a-a3cc-5b5b0e7af216)
 
--> Ventanas emergentes (acceso autorizado o acceso denegado)
-![accesoAuto](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/50f868af-a610-432b-b27c-d758aab63b04)
+<h3>-> Menu inicial:</h3>
+![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/ddf4c27e-53d0-46d6-9427-49b71083f2d2)
 
-![accesoDenegado](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/883ca31d-99b1-41c6-991e-d7229c5871c0)
+<h3>-> Registrar usuario:</h3>
+![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/d0a0305c-c611-4d55-8665-04c75f4551bf)
 
--> Menu inicial:
-![Menu](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/e6c5b7d1-16b1-4d27-a755-0f3e10e02382)
+<h3>-> Consultar Usuario:</h3>
+![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/b4a3f2b6-2ca7-4843-b945-162f8e5bbbeb)
 
--> Registrar usuario:
-![Registrar Usuario](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/ef06b4fb-e7dd-48c6-a1bf-6124627b87e1)
+<h3>-> Visualizar información del usuario</h3>
+![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/68cd4d26-9367-4009-93a8-6599a47d2e7b)
 
--> Consultar Usuario:
-![Consultar](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/813b02b1-abba-4607-aed1-3ca86ac83319)
+<h3>-> Ventana Actualizar Usuario:</h3>
+![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/e87030db-4fb2-4dfb-944b-f335bbcbdb2d)
 
--> Visualizar información del usuario
-![Ventana Info User](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/927bb567-c316-4241-b5eb-64c2758b06cc)
+<h3>-> Ventana registro invitado</h3>
+![image](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/ebb57be2-a6ba-406c-afa1-c0b79dae76d5)
 
--> Ventana Actualizar Usuario:
-![Actualizar usuario](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/d15ed2cc-dc4d-4270-9331-b49717db88b3)
-
--> Ventana eliminar usuario
-![Ventana Eliminar](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/d1eb5c6b-fabc-4a7b-9fbe-c71e105f9d2d)
-
--> Ventana registro invitado
-![Registrar Invitado](https://github.com/OmarBravo26/-Proyecto-Sistema-de-control-para-acceso-a-un-estacionamiento-CSA/assets/159394778/a1663a41-c4bd-4e67-b8c6-a73fb34b82eb)
 
