@@ -15,8 +15,8 @@
     
 </div>
 
-<a href="Bases de Datos/Script SQL">Ver Interfaz Gráfica</a><br>
-<a href="/Script SQL/">Ver Bases de Datos</a><br>
+<a href="Bases de Datos/Script SQL">Ver carpeta placas</a><br>
+<a href="/Script SQL/">Ver Script SQL</a><br>
 
 </body>
 </html>
