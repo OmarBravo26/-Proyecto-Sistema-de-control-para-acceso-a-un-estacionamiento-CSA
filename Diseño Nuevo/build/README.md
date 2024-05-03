@@ -16,9 +16,15 @@
     
 </div>
 
-<a href="/Bases de Datos/Placas/">Ver carpeta placas</a><br>
-<a href="/Bases de Datos/Script SQL/">Ver Script SQL</a><br>
-<a href="/Bases de Datos/DiagramaSQL/DiagramaSQL.jpg/">Ver Diagrama</a>
+<a href="/Diseño Nuevo/build/actualizarUserFrame.py/">Ver actualizar </a><br>
+<a href="/Diseño Nuevo/build/consultarFrame.py/">Ver Consultar</a><br>
+<a href="/Diseño Nuevo/build/datosUserFrame.py/">Ver Datos</a><br>
+<a href="/Diseño Nuevo/build/invitadoFrame.py/">Ver Invitado</a><br>
+<a href="/Diseño Nuevo/build/loginFrame.py/">Ver Login</a><br>
+<a href="/Diseño Nuevo/build/menuFrame.py/">Ver Menu</a><br>
+<a href="/Diseño Nuevo/build/monitoreoFrame.py/">Ver Monitoreo</a><br>
+<a href="/Diseño Nuevo/build/userRegisterFrame.py/">Ver Registro</a><br>
+
 
 </body>
 </html>
