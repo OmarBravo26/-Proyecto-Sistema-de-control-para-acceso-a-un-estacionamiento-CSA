@@ -1,7 +1,5 @@
 
 
-<a href="/Diagramas UML/Administrador secuencia.jpg/">Ver Diagramas UML</a>
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
