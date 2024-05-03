@@ -17,7 +17,7 @@
 
 <a href="/Bases de Datos/Placas/">Ver carpeta placas</a><br>
 <a href="/Bases de Datos/Script SQL/">Ver Script SQL</a><br>
-<a href="/DiagramaSQL/DiagramaSQL.jpg/">Ver Diagrama</a>
+<a href="/Bases de Datos/DiagramaSQL/DiagramaSQL.jpg/">Ver Diagrama</a>
 
 </body>
 </html>
