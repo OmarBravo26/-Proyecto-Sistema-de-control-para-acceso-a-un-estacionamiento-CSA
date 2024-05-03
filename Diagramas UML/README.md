@@ -21,11 +21,11 @@ diagrama de secuencia.</p>
     
 </div>
 
-<a href="/Diagramas UML/Diagramas de clase actualizados/Diagrama.jpg/">Ver Diagrama de clase</a>
-<a href="/Diagramas UML/Administrador secuencia.jpg/">Ver Diagramas UML</a>
-<a href="/Diagramas UML/Administrador.jpg/">Ver Diagrama Administrador</a>
-<a href="/Diagramas UML/Guardia.jpg/">Ver Diagrama Guardia</a>
-<a href="/Diagramas UML/Sistema de camara.jpg/">Ver Diagrama Sistema de camara</a>
+<a href="/Diagramas UML/Diagramas de clase actualizados/Diagrama.jpg/">Ver Diagrama de clase</a><br>
+<a href="/Diagramas UML/Administrador secuencia.jpg/">Ver Diagramas UML</a><br>
+<a href="/Diagramas UML/Administrador.jpg/">Ver Diagrama Administrador</a><br>
+<a href="/Diagramas UML/Guardia.jpg/">Ver Diagrama Guardia</a><br>
+<a href="/Diagramas UML/Sistema de camara.jpg/">Ver Diagrama Sistema de camara</a><br>
 <a href="/Diagramas UML/Sistema secuencia.jpg/">Ver Diagrama de sistema de secuencia</a>
 
 
