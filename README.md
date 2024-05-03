@@ -30,6 +30,8 @@
 <a href="/Interfaz Grafica/">Ver Interfaz Gráfica</a><br>
 <a href="/Bases de Datos/">Ver Bases de Datos</a><br>
 <a href="/Diagramas UML/">Ver Diagramas UML</a>
+<a href="/DiagramaSQL/DiagramaSQL.jpg">Ver Diagramas UML</a>
+
 </body>
 </html>
 
