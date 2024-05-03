@@ -15,7 +15,7 @@
     
 </div>
 
-<a href="/Placas/">Ver Interfaz Gráfica</a><br>
+<a href="Bases de Datos/Script SQL">Ver Interfaz Gráfica</a><br>
 <a href="/Script SQL/">Ver Bases de Datos</a><br>
 
 </body>
